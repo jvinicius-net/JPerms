@@ -1,0 +1,7 @@
+server:
+  default-group: default
+
+groups:
+  default:
+    permissions:
+      - teste.teste

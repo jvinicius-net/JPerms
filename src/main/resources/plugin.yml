@@ -1,0 +1,4 @@
+name: JPerms
+version: ${project.version}
+main: net.jvinicius.perms.v1.jperms.JPerms
+api-version: 1.13
